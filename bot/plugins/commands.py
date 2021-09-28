@@ -58,7 +58,7 @@ Join on our channel to get movies ✅
             await bot.send_document(
                 chat_id=update.chat.id,
                 document = file_id,
-                caption = caption,
+                caption = f"{file_name}\n @flixcorner_group",
                 parse_mode="html",
                 reply_to_message_id=update.message_id,
                 reply_markup=InlineKeyboardMarkup(
@@ -78,7 +78,7 @@ Join on our channel to get movies ✅
             await bot.send_video(
                 chat_id=update.chat.id,
                 video = file_id,
-                caption = caption,
+                caption = f"{file_name}\n @flixcorner_group",
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
@@ -104,7 +104,7 @@ Join on our channel to get movies ✅
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/jns_bots"
+                                    'Developers', url="https://t.me/flix_updates"
                                 )
                         ]
                     ]
