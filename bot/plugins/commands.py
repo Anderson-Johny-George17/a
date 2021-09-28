@@ -66,7 +66,7 @@ Join on our channel to get movies ✅
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/JNS_BOTS"
+                                    'SHARE OUR GROUP', url="https://telegram.me/share/url?url=https://t.me/flixcorner_group"
                                 )
                         ]
                     ]
@@ -85,7 +85,7 @@ Join on our channel to get movies ✅
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/jns_bots"
+                                    'SHARE OUR GROUP', url="https://telegram.me/share/url?url=https://t.me/flixcorner_group"
                                 )
                         ]
                     ]
@@ -97,7 +97,7 @@ Join on our channel to get movies ✅
             await bot.send_audio(
                 chat_id=update.chat.id,
                 audio = file_id,
-                caption = caption,
+                caption = f"{file_name}\n @flixcorner_group",
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
@@ -117,10 +117,10 @@ Join on our channel to get movies ✅
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/jns_bots'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://t.me/https://t.me/githubsoursecode')],                               
+        InlineKeyboardButton('Developers', url='https://t.me/flix_updates'),
+        InlineKeyboardButton('Source Code 🧾', url ='https://t.me/https://t.me/flix_updates')],                               
      [
-        InlineKeyboardButton('Support 🛠', url='https://t.me/jns_fc_bots')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/flix_updates')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
