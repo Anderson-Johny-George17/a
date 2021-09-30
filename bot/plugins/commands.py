@@ -118,7 +118,7 @@ Join on our channel to get movies ✅
 
                 document = file_id,
 
-                caption = caption,
+                caption = caption /n @flix_updates,
 
                 parse_mode="html",
 
@@ -158,7 +158,7 @@ Join on our channel to get movies ✅
 
                 video = file_id,
 
-                caption = caption,
+                caption = caption /n @flix_updates,
 
                 parse_mode="html",
 
