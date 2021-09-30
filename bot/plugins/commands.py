@@ -134,7 +134,7 @@ Join on our channel to get movies ✅
 
                                 (
 
-                                    'Developers', url="https://t.me/JNS_BOTS"
+                                    'SHARE OUR GROUP', url="https://telegram.me/share/url?url=https://t.me/flixcorner_group"
 
                                 )
 
@@ -172,7 +172,7 @@ Join on our channel to get movies ✅
 
                                 (
 
-                                    'Developers', url="https://t.me/jns_bots"
+                                    'SHARE OUR GROUP', url="https://telegram.me/share/url?url=https://t.me/flixcorner_group"
 
                                 )
 
@@ -210,7 +210,7 @@ Join on our channel to get movies ✅
 
                                 (
 
-                                    'Developers', url="https://t.me/jns_bots"
+                                    'SHARE OUR GROUP', url="https://telegram.me/share/url?url=https://t.me/flixcorner_group"
 
                                 )
 
