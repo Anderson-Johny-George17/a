@@ -40,9 +40,9 @@ Join on our channel to get movies ✅
               ])
               [
 
-                                InlineKeyboardButton(" 🔄 Try Again", callback_data=f"checksub#{file_id}")
+                                
 
-                            ]
+
 
                             
 
