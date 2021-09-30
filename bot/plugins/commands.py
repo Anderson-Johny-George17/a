@@ -48,7 +48,7 @@ Join on our channel to get movies ✅
 
                     parse_mode="markdown"
 
-                )
+             
 
 
             )
