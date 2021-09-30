@@ -40,13 +40,13 @@ Join on our channel to get movies ✅
               ])
               InlineKeyboardButton(" 🔄 Try Again",url=f"t.me/{username}?start={command}")]
 
-                            ]
+                            
 
-                        ]
+                        
 
-                    ),
+                   
 
-                    parse_mode="markdown"
+
 
              
 
