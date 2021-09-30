@@ -77,10 +77,12 @@ Join on our channel to get movies ✅
                     [ InlineKeyboardButton(text="⚡ Join My Channel⚡️", url=f"https://t.me/{update_channel}")]
 
               ])
+                InlineKeyboardButton("🔄 Retry", callback_data=f"checksub#{file_id}")
 
             )
 
             return
+        
 
     try:
 
