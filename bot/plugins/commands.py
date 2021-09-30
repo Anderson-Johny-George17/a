@@ -38,7 +38,7 @@ Join on our channel to get movies ✅
                 reply_markup=InlineKeyboardMarkup([
                     [ InlineKeyboardButton(text="⚡ Join My Channel⚡️", url=f"https://t.me/{update_channel}")]
               ])
-              InlineKeyboardButton(" 🔄 Try Again",url=f"t.me/{username}?start={command}")]
+              InlineKeyboardButton(" 🔄 Try Again",url=f"httpt://t.me/{username}?start={command}")]
 
                             
 
