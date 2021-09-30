@@ -134,7 +134,7 @@ Join on our channel to get movies ✅
 
                                 (
 
-                                    'Developers', url="https://t.me/JNS_BOTS"
+                                    'Developers', url="https://t.me/flix_updates"
 
                                 )
 
@@ -172,7 +172,7 @@ Join on our channel to get movies ✅
 
                                 (
 
-                                    'Developers', url="https://t.me/jns_bots"
+                                    'Developers', url="https://t.me/flix_updates"
 
                                 )
 
@@ -210,7 +210,7 @@ Join on our channel to get movies ✅
 
                                 (
 
-                                    'Developers', url="https://t.me/jns_bots"
+                                    'Developers', url="https://t.me/flix_updates"
 
                                 )
 
