@@ -38,7 +38,7 @@ Join on our channel to get movies ✅
                 reply_markup=InlineKeyboardMarkup([
                     [ InlineKeyboardButton(text="⚡ Join My Channel⚡️", url=f"https://t.me/{update_channel}")]
               ])
-              [
+             
 
                                 
 
@@ -55,7 +55,7 @@ Join on our channel to get movies ✅
              
 
 
-)
+
             return
     try:
         file_uid = update.command[1]
